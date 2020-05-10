@@ -8,7 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -23,7 +23,7 @@ post_limit: 5
 
 title : Helium Jekyll
 tagline: Bootstrap 4 UI kit for jekyll
-author : 
+author :
   name : Antonio Trento
   site: https://lantoniotrento.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
@@ -35,7 +35,7 @@ author :
   linkedin: antoniotrento
   instagram: lantoniotrento
   pinterest: antoniotrento
-  feedburner : 
+  feedburner :
 
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
@@ -102,12 +102,12 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : 
+    disqus :
       short_name : jeky-new-age
     #livefyre :
-    #  site_id : 
+    #  site_id :
     #intensedebate :
-    #  account : 
+    #  account :
     #facebook :
     #  appid :
       num_posts: 5
